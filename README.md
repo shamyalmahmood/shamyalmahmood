@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamyalmahmood&label=Profile%20views&color=0e75b6&style=flat" alt="shamyalmahmood" /> </p>
 
-- 🌱 I’m currently learning **Reactjs and Tailwind**
+- 🌱 I’m currently learning **Nextjs, Reactjs, Bootstrap CSS and Tailwind CSS**
 
 - 📄 Know about my experiences **www.linkedin.com/in/shamyal-mahmood**
 
